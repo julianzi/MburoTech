@@ -22,7 +22,8 @@ h1, h2, h3, h4, h5, h6 {
 #title{
 
   text-align: left;
-  background-color: #e4e4e4;
+  background-color:  #5F9EA0;
+  color:#e4e4e4;
   padding:3% 15%;
   /* height: 600px; */
 }
